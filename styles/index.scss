@@ -1,0 +1,5 @@
+@use "variables" as v;
+@use "importer";
+body {
+  background-color: v.$color-blue;
+}
